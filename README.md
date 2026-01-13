@@ -1,2 +1,2 @@
 # cybersecuritylabs
-Hands-on cybersecurity practice labs from TryHackMe and personal projects
+This repository contains hands-on SOC focused cybersecurity labs including attack simulation, detection, log analysis, and incident response documentation.
