@@ -14,3 +14,6 @@ Simulate and detect SSH brute-force attack to understand SOC level log analysis 
 - Log analysis
 - IOC identification
 - Incident documentation
+
+## SOC Mini Projects
+- SSH Brute Force Detection Lab
